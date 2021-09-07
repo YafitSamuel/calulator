@@ -1,6 +1,5 @@
 
 
-
 .numbers {
     display: flex;
     flex-wrap: wrap;
@@ -48,6 +47,7 @@
     margin-top: 12px;
     padding: 17px;
     background-color: rgb(83, 97, 155);
+    
 }
 #minus:hover{
     font-size:20px

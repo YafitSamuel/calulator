@@ -1,27 +1,34 @@
-.numbers {
 
+
+
+.numbers {
     display: flex;
     flex-wrap: wrap;
     margin-left: 17.4px;
     margin-top: 12px;
     padding: 16px;
-  
+    color: rgb(83, 97, 155);
+    
+}
+.numbers:hover{
+    background-color: rgba(119, 119, 158, 0.199);
 }
 
 #input1 {
-    border: rosybrown solid 6px;
+    border: rgb(83, 97, 155) solid 6px;
     width: 35%;
+    transition: s;
+    
 }
 
 #input2 {
-    border: rosybrown solid 6px;
+    border:  rgb(83, 97, 155)  solid 6px;
     width: 35%;
-
 }
 
 #numbers {
     width: 35%;
-    border: rosybrown solid 8px;
+    border:  rgb(83, 97, 155)  solid 8px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -30,26 +37,39 @@
     margin-left: 13px;
     margin-top: 12px;
     padding: 17px;
-    background-color: rosybrown;
+    background-color: rgb(83, 97, 155);
+}
+#plus:hover{
+    font-size:20px
 }
 
 #minus {
     margin-left: 15px;
     margin-top: 12px;
     padding: 17px;
-    background-color: rosybrown;
+    background-color: rgb(83, 97, 155);
+}
+#minus:hover{
+    font-size:20px
 }
 
 #hilook {
     margin-left: 12px;
     margin-top: 12px;
     padding: 18px;
-    background-color: rosybrown;
+    background-color: rgb(83, 97, 155);
+}
+#hilook:hover{
+    font-size:20px
 }
 
 #kefel {
     padding: 18px;
     margin-left: 13px;
     margin-top: 12px;
-    background-color: rosybrown;
+    background-color: rgb(83, 97, 155);
+}
+#kefel:hover{
+    font-size:20px
+    
 }

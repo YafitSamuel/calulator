@@ -1,16 +1,16 @@
 // הגדרה של האינפוט
-const input1 = document.getElementById("input1");
-const input2 = document.getElementById("input2");
+// const input1 = document.getElementById("input1");
+// const input2 = document.getElementById("input2");
 
 // הגדרה של כפתורי הפעולות 
-const plus = document.getElementById("plus");
-const minus = document.getElementById("minus");
-const hilook = document.getElementById("hilook");
-const kefel = document.getElementById("kefel");
+// const plus = document.getElementById("plus");
+// const minus = document.getElementById("minus");
+// const hilook = document.getElementById("hilook");
+// const kefel = document.getElementById("kefel");
 
 // הגדרה של מספרים
 
-const numbers = document.getElementsByClassName("numbers");
+// const numbers = document.getElementsByClassName("numbers");
 
 // הגדרת בעת לחיצה על מקשי הפעולות 
 

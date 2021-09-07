@@ -37,11 +37,11 @@ kefel.addEventListener("click", function () {
 
 
 
-for (let i = 0; i < numbers.length; i++){
-    numbers[i].addEventListener("click", function (){
-        input1.value+=numbers[i].innerText
-    })
-}
+// for (let i = 0; i < numbers.length; i++){
+//     numbers[i].addEventListener("click", function (){
+//         input1.value+=numbers[i].innerText
+//     })
+// }
 
 
 

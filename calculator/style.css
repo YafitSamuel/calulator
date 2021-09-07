@@ -1,0 +1,55 @@
+.numbers {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 17.4px;
+    margin-top: 12px;
+    padding: 16px;
+  
+}
+
+#input1 {
+    border: rosybrown solid 6px;
+    width: 35%;
+}
+
+#input2 {
+    border: rosybrown solid 6px;
+    width: 35%;
+
+}
+
+#numbers {
+    width: 35%;
+    border: rosybrown solid 8px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#plus {
+    margin-left: 13px;
+    margin-top: 12px;
+    padding: 17px;
+    background-color: rosybrown;
+}
+
+#minus {
+    margin-left: 15px;
+    margin-top: 12px;
+    padding: 17px;
+    background-color: rosybrown;
+}
+
+#hilook {
+    margin-left: 12px;
+    margin-top: 12px;
+    padding: 18px;
+    background-color: rosybrown;
+}
+
+#kefel {
+    padding: 18px;
+    margin-left: 13px;
+    margin-top: 12px;
+    background-color: rosybrown;
+}
